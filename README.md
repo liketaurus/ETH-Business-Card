@@ -1,5 +1,5 @@
 # ETH-Business-Card
-A simple business card smart contract example (impressed by [Ethereum Development Course - Blockchain at Berkeley](https://www.udemy.com/ethereum-development-course-blockchain-at-berkeley/))
+A simple business card smart contract example (impressed by samples from [Ethereum Development Course - Blockchain at Berkeley](https://www.udemy.com/ethereum-development-course-blockchain-at-berkeley/))
 
 ## Setup Steps
 * download and install [Node.js](https://nodejs.org/en/)
